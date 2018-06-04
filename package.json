@@ -1,0 +1,14 @@
+{
+  "name": "leahenelow-resume",
+  "version": "1.0.0",
+  "description": "leah's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lenelow@terpmail.umd.edu",
+  "license": "ISC",
+  "bin": {
+    "leah-resume": "./index.js"
+  }
+}
